@@ -1,0 +1,48 @@
+
+.logo {
+	height: 400px;
+	width: 100%; 
+	margin-left: auto; 
+	margin-right: auto; 
+	
+}
+
+.logo {
+	background-image: url("../images/logo.jpg");
+	background-attachment: scroll;
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+
+.intro {
+	text-align: center;
+	border: 10px dashed #637021;;
+	height: auto;
+	width: 55%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Lato', sans-serif;
+}
+
+.text-input {
+    border: none;
+    box-shadow: none;
+    border-bottom: 3px solid grey;
+    -webkit-box-shadow: none; 
+    -moz-box-shadow: none; 
+    box-shadow: none; 
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+}
+
+.text-input:focus {
+	border-bottom: 3px solid black;
+}
+
+.introduction {
+	height: auto;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
